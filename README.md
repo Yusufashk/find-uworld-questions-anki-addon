@@ -2,14 +2,11 @@
 
 A beautiful Anki add-on that extracts UWorld question IDs from selected cards/notes in the Browser and organizes them by exam type (Step 1, Step 2, Step 3, COMLEX 1, COMLEX 2).
 
-![UWorld Logo](find_uworld_questions/UWorld.jpg)
-
 ## Features
 
 - **Beautiful UWorld-themed UI**: Clean blue and white color scheme matching UWorld's branding
 - **Tab-based interface**: Switch between Step 1, Step 2, Step 3, COMLEX 1, and COMLEX 2
 - **Copy to clipboard**: Copy comma-separated list with option to include/exclude spaces
-- **UWorld logo**: Displays the UWorld logo in the dialog header
 - **Deduplication**: Automatically removes duplicate IDs
 - **Sorting**: IDs are displayed in ascending numeric order
 - **Count display**: Shows number of questions found for each category
@@ -89,7 +86,6 @@ This project is open source and available under the [MIT License](LICENSE).
 **Yusuf Ashktorab**
 - GitHub: [@yusufashk](https://github.com/yusufashk)
 - Website: [ashklab.com](https://ashklab.com)
-- ORCID: [0009-0006-7375-1157](https://orcid.org/0009-0006-7375-1157)
 
 ---
 
