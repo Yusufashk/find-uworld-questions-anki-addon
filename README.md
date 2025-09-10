@@ -10,7 +10,6 @@ A  Anki add-on that extracts UWorld question IDs from selected cards/notes in th
 - **Deduplication**: Automatically removes duplicate IDs
 - **Sorting**: IDs are displayed in ascending numeric order
 - **Count display**: Shows number of questions found for each category
-- **Credits**: Made by [Yusuf Ashktorab](https://ashklab.com)
 
 ## Installation
 
