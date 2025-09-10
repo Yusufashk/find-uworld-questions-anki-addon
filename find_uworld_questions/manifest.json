@@ -1,0 +1,9 @@
+{
+    "package": "find_uworld_questions",
+    "name": "Find UWorld Questions",
+    "author": "Anki Add-on Developer",
+    "version": "1.0.0",
+    "description": "Extract UWorld question IDs from selected cards/notes in the Browser",
+    "min_point_version": 66,
+    "max_point_version": 0
+}
